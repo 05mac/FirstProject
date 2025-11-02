@@ -1,6 +1,9 @@
 KROK 1.Rozpocznij prace z:
 	- u góry VSC wpisz: ">git:clone ---adres url repo---"
 
+	# git config --global user. email "you@example.com"
+	# git config --global user.name "cameronmcnz"
+
 	# 2. Przejdź na główną gałąź
 	git switch main
 
